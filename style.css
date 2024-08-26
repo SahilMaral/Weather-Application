@@ -167,13 +167,13 @@ h1 {
     }
 
     .weather-cards .card {
-        width: calc(100% / 4 - 15px);
+        width: calc(100% / 3 - 15px);
     }
 }
 
 @media (max-width: 1200px) {
     .weather-cards .card {
-        width: calc(100% / 3 - 15px);
+        width: calc(100% / 2 - 15px);
     }
 }
 
@@ -183,7 +183,7 @@ h1 {
     }
 
     .weather-cards .card {
-        width: calc(100% / 2 - 10px);
+        width: calc(100% / 1 - 10px);
     }
 }
 
